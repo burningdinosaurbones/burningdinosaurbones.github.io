@@ -2,6 +2,7 @@
 layout: default
 title: Landing page
 ---
+
 ### Burning diesel, burning dinosaur bones.
 
 {{ page.title }}
