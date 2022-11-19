@@ -1,7 +1,10 @@
+---
+layout: default
+title: Landing page
+---
 ### Burning diesel, burning dinosaur bones.
 
-# Landing page
-
+{{ page.title }}
 Eventually this will contain links to pages for
 
 - Public projects
