@@ -3,8 +3,6 @@ layout: default
 title: Index page
 ---
 
-### Burning diesel, burning dinosaur bones.
-
 {{ page.title }}
 
 Eventually this will contain links to pages for
