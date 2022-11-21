@@ -11,4 +11,4 @@ Eventually this will contain links to pages for
 - Private projects
 - Members
 
-This is a test.
+For now I use it to test and educate myself on git and Github functionality.
