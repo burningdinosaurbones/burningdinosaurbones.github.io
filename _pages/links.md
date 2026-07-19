@@ -1,6 +1,7 @@
 ---
 permalink: /links/
 title: "Links"
+mathjax: true
 ---
 
 - How to set up a GitHub Pages site using a Jekyll template (MathQuantum):
