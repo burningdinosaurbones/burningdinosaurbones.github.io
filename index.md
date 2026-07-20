@@ -6,6 +6,7 @@ layout: single
 title: "Index page title"
 permalink: /
 author_profile: true
+search: false
 # mathjax: true
 ---
 
